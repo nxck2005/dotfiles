@@ -1,0 +1,140 @@
+info: v
+debug: Setting language to
+info: CLI arguments received: {"argv":{"$0":"tabby","_":[]},"cwd":"/home/nishchalravi/Downloads/tabby-1.0.223-linux-x64","secondInstance":false}
+debug: Setting language to
+info: Starting profile User default {"behaviorOnSessionEnd":"auto","color":"","disableDynamicTitle":false,"group":"","icon":"","id":"local:default","isBuiltin":true,"isTemplate":false,"name":"User default","options":{"args":["--login"],"command":"/usr/bin/zsh","cwd":null,"env":{},"height":null,"pauseAfterExit":false,"restoreFromPTYID":null,"runAsAdministrator":false,"width":null},"terminalColorScheme":null,"type":"local","weight":0}
+debug: Resizing to 95x33
+info: Destroying
+info: v
+debug: Setting language to
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[]},"cwd":"/home/nishchalravi/Downloads","secondInstance":false}
+info: CLI handler matched:
+debug: Resizing to 95x33
+debug: Resizing to 235x60
+info: Destroying
+info: v
+debug: Setting language to
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/nishchalravi","secondInstance":false}
+info: CLI handler matched:
+debug: Resizing to 235x60
+info: Starting profile User default {"behaviorOnSessionEnd":"auto","color":"","disableDynamicTitle":false,"group":"","icon":"","id":"local:default","isBuiltin":true,"isTemplate":false,"name":"User default","options":{"args":["--login"],"command":"/usr/bin/zsh","cwd":null,"env":{},"height":null,"pauseAfterExit":false,"restoreFromPTYID":null,"runAsAdministrator":false,"width":null},"terminalColorScheme":null,"type":"local","weight":0}
+debug: Resizing to 235x60
+info: Destroying
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Resizing to 188x42
+info: Starting profile User default {"behaviorOnSessionEnd":"auto","color":"","disableDynamicTitle":false,"group":"","icon":"","id":"local:default","isBuiltin":true,"isTemplate":false,"name":"User default","options":{"args":["--login"],"command":"/usr/bin/zsh","cwd":null,"env":{},"height":null,"pauseAfterExit":false,"restoreFromPTYID":null,"runAsAdministrator":false,"width":null},"terminalColorScheme":null,"type":"local","weight":0}
+debug: Resizing to 188x42
+info: Destroying
+debug: Setting language to
+debug: Resizing to 76x23
+debug: Resizing to 188x42
+debug: Resizing to 92x42
+debug: Resizing to 92x42
+debug: Resizing to 87x42
+debug: Resizing to 96x42
+debug: Resizing to 107x42
+debug: Resizing to 75x42
+debug: Resizing to 108x42
+debug: Resizing to 76x42
+debug: Resizing to 97x42
+debug: Resizing to 86x42
+debug: Resizing to 92x42
+debug: Resizing to 91x42
+debug: Resizing to 95x42
+debug: Resizing to 88x42
+debug: Resizing to 116x42
+debug: Resizing to 66x42
+debug: Resizing to 117x42
+debug: Resizing to 113x42
+debug: Resizing to 70x42
+debug: Resizing to 112x42
+debug: Resizing to 71x42
+debug: Resizing to 108x42
+debug: Resizing to 75x42
+debug: Resizing to 76x42
+debug: Resizing to 107x42
+debug: Resizing to 106x42
+debug: Resizing to 77x42
+debug: Resizing to 105x42
+debug: Resizing to 78x42
+debug: Resizing to 103x42
+debug: Resizing to 80x42
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Setting language to
+debug: Resizing to 89x46
+debug: Resizing to 114x46
+debug: Resizing to 118x46
+debug: Resizing to 85x46
+debug: Resizing to 119x46
+debug: Resizing to 84x46
+debug: Resizing to 123x46
+debug: Resizing to 80x46
+debug: Resizing to 125x46
+debug: Resizing to 79x46
+debug: Resizing to 123x46
+debug: Resizing to 81x46
+debug: Setting language to
+info: v
+debug: Setting language to
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/nishchalravi","secondInstance":false}
+info: CLI handler matched:
+debug: Resizing to 81x46
+debug: Resizing to 123x46
+info: v
+debug: Setting language to
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/nishchalravi","secondInstance":false}
+info: CLI handler matched:
+debug: Resizing to 81x46
+debug: Resizing to 123x46
+info: v
+debug: Setting language to
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/nishchalravi","secondInstance":false}
+info: CLI handler matched:
+debug: Resizing to 81x46
+debug: Resizing to 123x46
+debug: Resizing to 106x46
+debug: Resizing to 98x46
+debug: Resizing to 97x46
+debug: Resizing to 107x46
+debug: Resizing to 86x46
+debug: Resizing to 118x46
+debug: Resizing to 97x46
+debug: Resizing to 108x46
+debug: Resizing to 95x46
+info: Destroying
+info: v
+debug: Setting language to
+info: CLI arguments received: {"argv":{"$0":"/opt/Tabby/tabby","_":[],"sandbox":false},"cwd":"/home/nishchalravi","secondInstance":false}
+info: CLI handler matched:
+debug: Resizing to 95x46
+debug: Resizing to 108x46
+info: Starting profile User default {"behaviorOnSessionEnd":"auto","color":"","disableDynamicTitle":false,"group":"","icon":"","id":"local:default","isBuiltin":true,"isTemplate":false,"name":"User default","options":{"args":["--login"],"command":"/usr/bin/zsh","cwd":null,"env":{},"height":null,"pauseAfterExit":false,"restoreFromPTYID":null,"runAsAdministrator":false,"width":null},"terminalColorScheme":null,"type":"local","weight":0}
+debug: Resizing to 208x46
+debug: Resizing to 37x25
+debug: Resizing to 42x25
+debug: Resizing to 84x25
+debug: Resizing to 45x46
+debug: Resizing to 52x46
+debug: Resizing to 102x46
+debug: Resizing to 95x46
+debug: Resizing to 108x46
+debug: Resizing to 208x46
+info: Destroying
+info: Destroying
+info: Destroying
