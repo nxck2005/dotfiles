@@ -123,6 +123,7 @@ extract() {
     fi
 }
 eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"
+eval $(thefuck --alias)
 fastfetch
 alias ls='eza --icons'
 alias la='eza -la --icons --git'
