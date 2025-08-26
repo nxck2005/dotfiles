@@ -132,3 +132,5 @@ alias osage='birth_install=$(stat -c %W /); current=$(date +%s); time_progressio
 alias factorio='cd ~/Games/F:SA/Factorio_Linux/factorio-space-age_linux_2.0.60/factorio/bin/x64; factorio; cd -'
 
 export PATH=$PATH:/home/nishchalravi/.spicetify
+export PATH=/usr/local/cuda/bin${PATH:+:${PATH}}
+export LD_LIBRARY_PATH=/usr/local/cuda/lib64${LD_LIBRARY_PATH:+:${LD_LIBRARY_PATH}}
