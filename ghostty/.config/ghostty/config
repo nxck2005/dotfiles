@@ -61,3 +61,7 @@ cursor-color = white
 
 # Shell integration
 shell-integration = zsh
+
+window-save-state = always
+window-width = 1920
+window-height = 1040
