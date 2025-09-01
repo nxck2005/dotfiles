@@ -133,6 +133,14 @@ alias factorio='cd ~/Games/F:SA/Factorio_Linux/factorio-space-age_linux_2.0.60/f
 fzf() {
   command fzf --preview 'bat --color=always --line-range :50 {}' "$@"
 }
+nvfind() {
+  local file
+  file=$(fzf --height 40% --layout=reverse --border \
+             --preview 'bat --color=always --style=numbers --line-range :50 {}')
+  if [[ -n "$file" ]]; then
+    nvim "$file"
+  fi
+}
 export PATH=$PATH:/home/nishchalravi/.spicetify
 export PATH=/usr/local/cuda/bin${PATH:+:${PATH}}
 export LD_LIBRARY_PATH=/usr/local/cuda/lib64${LD_LIBRARY_PATH:+:${LD_LIBRARY_PATH}}
