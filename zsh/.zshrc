@@ -130,7 +130,9 @@ alias la='eza -la --icons --git'
 alias tree='eza --tree'
 alias osage='birth_install=$(stat -c %W /); current=$(date +%s); time_progression=$((current - birth_install)); days_difference=$((time_progression / 86400)); echo $days_difference days'
 alias factorio='cd ~/Games/F:SA/Factorio_Linux/factorio-space-age_linux_2.0.60/factorio/bin/x64; factorio; cd -'
-
+fzf() {
+  command fzf --preview 'bat --color=always --line-range :50 {}' "$@"
+}
 export PATH=$PATH:/home/nishchalravi/.spicetify
 export PATH=/usr/local/cuda/bin${PATH:+:${PATH}}
 export LD_LIBRARY_PATH=/usr/local/cuda/lib64${LD_LIBRARY_PATH:+:${LD_LIBRARY_PATH}}
