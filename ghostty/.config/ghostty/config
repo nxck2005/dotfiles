@@ -43,7 +43,7 @@
 resize-overlay-duration = 4s 200ms
 
 # Font configuration
-font-family = JetBrainsMono
+font-family = IosevkaTermCurly
 font-size = 14
 
 # Theme
