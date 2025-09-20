@@ -129,13 +129,14 @@ alias ls='eza --icons'
 alias la='eza -la --icons --git'
 alias tree='eza --tree'
 alias osage='birth_install=$(stat -c %W /); current=$(date +%s); time_progression=$((current - birth_install)); days_difference=$((time_progression / 86400)); echo $days_difference days'
+alias themes='ghostty +list-themes'
 alias factorio='cd ~/Games/F:SA/Factorio_Linux/factorio-space-age_linux_2.0.60/factorio/bin/x64; factorio; cd -'
 fzf() {
   command fzf --preview 'bat --color=always --line-range :50 {}' "$@"
 }
 nvfind() {
   local file
-  file=$(fzf --height 40% --layout=reverse --border \
+  file=$(fzf --layout=reverse --border \
              --preview 'bat --color=always --style=numbers --line-range :50 {}')
   if [[ -n "$file" ]]; then
     nvim "$file"
@@ -145,3 +146,5 @@ export PATH=$PATH:/home/nishchalravi/.spicetify
 export PATH=/usr/local/cuda/bin${PATH:+:${PATH}}
 export LD_LIBRARY_PATH=/usr/local/cuda/lib64${LD_LIBRARY_PATH:+:${LD_LIBRARY_PATH}}
 export PKG_CONFIG_PATH=/usr/lib64/pkgconfig:$PKG_CONFIG_PATH
+
+. "$HOME/.local/bin/env"

@@ -40,27 +40,29 @@
 # # Some config options have unique syntaxes for their value,
 # # which is explained in the docs for that config option.
 # # Just for example:
-resize-overlay-duration = 4s 200ms
+resize-overlay-duration = 2s
 
+#custom-shader = ./shaders/cursor_smear_fade.glsl
+custom-shader = ./shaders/cursor_blaze.glsl
 # Font configuration
 font-family = IosevkaTermCurly
-font-size = 14
+font-size = 16
 
 # Theme
-theme = ayu
+theme = Builtin Pastel Dark
 
 # Window appearance
 window-decoration = true
-window-padding-x = 12
-window-padding-y = 12
-
-# Cursor
-cursor-style = bar
-cursor-style-blink = false
-cursor-color = white
+window-padding-x = 6
+window-padding-y = 6
 
 # Shell integration
 shell-integration = zsh
+shell-integration-features = no-cursor
+
+# Cursor
+cursor-style = block
+cursor-color = white
 
 window-save-state = always
 window-width = 1920
