@@ -125,6 +125,7 @@ extract() {
 eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"
 eval $(thefuck --alias)
 fastfetch
+alias Impact-4.9.1-1.12.2.jar='echo YOU DONE RATTED NGA'
 alias ls='eza --icons'
 alias la='eza -la --icons --git'
 alias tree='eza --tree'
